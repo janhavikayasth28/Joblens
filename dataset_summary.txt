@@ -1,0 +1,21 @@
+Rows: 97929
+Columns: 17
+
+Column names:
+title
+jobId
+currency
+jobUploaded
+companyName
+tagsAndSkills
+experience
+salary
+location
+companyId
+ReviewsCount
+AggregateRating
+jobDescription
+minimumSalary
+maximumSalary
+minimumExperience
+maximumExperience
